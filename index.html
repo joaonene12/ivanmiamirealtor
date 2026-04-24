@@ -513,7 +513,11 @@
       animation: marquee 900s linear infinite;
       padding: 4px 64px 20px;
     }
-    .carousel-track:hover { animation-play-state: paused; cursor: pointer; }
+    @media (hover: hover) and (pointer: fine) {
+      .carousel-track:hover { animation-play-state: paused; cursor: pointer; }
+      .listing-card:hover { box-shadow: 0 8px 32px rgba(24,19,12,0.13); }
+      .listing-card:hover::after { transform: scaleX(1); }
+    }
 
     .listing-card {
       width: 300px; flex-shrink: 0; border-radius: 3px; overflow: hidden;
@@ -521,14 +525,12 @@
       box-shadow: 0 2px 16px rgba(24,19,12,0.06);
       position: relative; transition: box-shadow 0.3s ease;
     }
-    .listing-card:hover { box-shadow: 0 8px 32px rgba(24,19,12,0.13); }
     .listing-card::after {
       content: ''; position: absolute; bottom: 0; left: 0; right: 0;
       height: 2px; background: var(--bronze);
       transform: scaleX(0); transform-origin: left;
       transition: transform 0.4s cubic-bezier(0.22,1,0.36,1);
     }
-    .listing-card:hover::after { transform: scaleX(1); }
     .listing-photo {
       height: 188px; background-size: cover; background-position: center;
       position: relative;
@@ -552,7 +554,9 @@
 
     @media (max-width: 800px) {
       .carousel-viewport { margin: 0 -24px; }
-      .carousel-track { padding: 4px 24px 16px; }
+      .carousel-track { padding: 4px 24px 16px; animation-duration: 360s; }
+      .listing-card { width: 240px; }
+      .listing-photo { height: 152px; }
     }
 
     @media (max-width: 540px) {
