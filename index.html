@@ -560,17 +560,27 @@
     .listing-address { font-size: 12px; color: var(--ink-60); letter-spacing: 0.02em; }
 
     @media (max-width: 800px) {
-      .carousel-viewport { margin: 0 -24px; overflow: hidden; }
-      .carousel-track { padding: 4px 24px 20px; animation-duration: 900s; animation-delay: -120s; animation-play-state: running !important; }
-      .listing-card { width: 260px; }
+      .carousel-viewport {
+        margin: 0 -24px;
+        overflow-x: auto; overflow-y: hidden;
+        -webkit-overflow-scrolling: touch;
+        scroll-snap-type: x proximity;
+        scrollbar-width: none;
+      }
+      .carousel-viewport::-webkit-scrollbar { display: none; }
+      .carousel-viewport::before,
+      .carousel-viewport::after { display: none; }
+      .carousel-track { padding: 4px 24px 20px; animation: none; width: max-content; }
+      .listing-card { width: 260px; scroll-snap-align: start; }
       .listing-photo { height: 164px; }
     }
 
     @media (max-width: 540px) {
       .hero-video-wrap iframe {
-        width: 100vw; height: 56.25vw;
+        /* Portrait: drive by height so video covers the full frame */
+        width: 177.78vh; height: 100vh;
         min-height: unset; min-width: unset;
-        top: 40%; left: 50%;
+        top: 50%; left: 50%;
         transform: translate(-50%, -50%);
       }
       .hero-name { font-size: clamp(52px, 14vw, 90px); }
@@ -715,6 +725,8 @@
       src="https://www.youtube.com/embed/_jtkyWaFIEQ?autoplay=1&mute=1&controls=0&modestbranding=1&rel=0&playsinline=1&enablejsapi=1"
       allow="autoplay; encrypted-media; picture-in-picture"
       frameborder="0"
+      playsinline
+      webkit-playsinline
     ></iframe>
   </div>
   <div class="hero-overlay"></div>
@@ -1257,11 +1269,15 @@ function showFormMsg(el, state, lang) {
   try {
     const listings = await fetch('listings.json').then(r => r.json());
     if (!listings.length) throw new Error('empty');
-    track.innerHTML = listings.map(card).join('') + listings.map(card).join('');
-    // Pause on mouse hover only — JS ensures touch devices are never affected
-    if (window.matchMedia('(hover: hover) and (pointer: fine)').matches) {
-      track.addEventListener('mouseenter', () => track.style.animationPlayState = 'paused');
-      track.addEventListener('mouseleave', () => track.style.animationPlayState = 'running');
+    const isMobile = window.matchMedia('(max-width: 800px)').matches;
+    if (isMobile) {
+      track.innerHTML = listings.map(card).join('');
+    } else {
+      track.innerHTML = listings.map(card).join('') + listings.map(card).join('');
+      if (window.matchMedia('(hover: hover) and (pointer: fine)').matches) {
+        track.addEventListener('mouseenter', () => track.style.animationPlayState = 'paused');
+        track.addEventListener('mouseleave', () => track.style.animationPlayState = 'running');
+      }
     }
   } catch {
     const sec = document.getElementById('listings');
