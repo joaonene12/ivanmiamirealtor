@@ -393,6 +393,7 @@
       display: grid; grid-template-columns: 1fr 1fr;
       gap: 96px; align-items: center; position: relative; z-index: 2;
     }
+    .miami-stats-row { display: flex; align-items: center; }
     .miami-stat {
       padding: 0 32px; border-right: 1px solid rgba(255,255,255,0.07);
       flex: 1; text-align: center;
@@ -476,6 +477,7 @@
       .pillar:nth-child(n+4) { border-top: 1px solid rgba(24,19,12,0.1); }
       .svc-grid { grid-template-columns: 1fr; grid-template-rows: auto; }
       .svc-card.main { grid-row: span 1; }
+      .svc-card { height: 420px; }
     }
     @media (max-width: 800px) {
       .pad { padding: 80px 24px; }
@@ -484,9 +486,12 @@
       .pillar:nth-child(2n) { border-right: none; }
       .pillar:nth-child(n+3) { border-top: 1px solid rgba(24,19,12,0.1); }
       .miami-grid { grid-template-columns: 1fr; gap: 52px; }
-      .miami-stat { padding: 24px 0; border-right: none; border-bottom: 1px solid rgba(255,255,255,0.07); text-align: left; flex: unset; width: 100%; }
-      .miami-stat:first-child { padding-left: 0; }
+      .miami-stats-row { flex-direction: column; align-items: flex-start; gap: 0; }
+      .miami-stat { padding: 28px 0; border-right: none; border-bottom: 1px solid rgba(255,255,255,0.07); text-align: left; flex: unset; width: 100%; }
+      .miami-stat:first-child { padding-left: 0; padding-top: 0; }
       .miami-stat:last-child { border-bottom: none; }
+      .miami-stat-num { font-size: 48px; }
+      .miami-stat-lbl { font-size: 13px; margin-top: 8px; }
       .contact-grid { grid-template-columns: 1fr; gap: 48px; }
       .stats-bar { display: none; }
       footer { padding: 40px 24px 28px; }
@@ -553,13 +558,26 @@
     .listing-address { font-size: 12px; color: var(--ink-60); letter-spacing: 0.02em; }
 
     @media (max-width: 800px) {
-      .carousel-viewport { margin: 0 -24px; }
-      .carousel-track { padding: 4px 24px 16px; animation-duration: 360s; }
-      .listing-card { width: 240px; }
-      .listing-photo { height: 152px; }
+      .carousel-viewport {
+        margin: 0 -24px;
+        overflow-x: auto; overflow-y: hidden;
+        -webkit-overflow-scrolling: touch;
+        scroll-snap-type: x mandatory;
+      }
+      .carousel-viewport::-webkit-scrollbar { display: none; }
+      .carousel-viewport::before,
+      .carousel-viewport::after { display: none; }
+      .carousel-track { animation: none; padding: 4px 24px 20px; }
+      .listing-card { width: 260px; scroll-snap-align: start; }
+      .listing-photo { height: 164px; }
     }
 
     @media (max-width: 540px) {
+      .hero-video-wrap iframe {
+        width: 177.78vh; height: 100vh;
+        min-height: unset; min-width: unset;
+        top: 50%; transform: translate(-50%, -50%);
+      }
       .hero-name { font-size: clamp(52px, 14vw, 90px); }
       .pillars { grid-template-columns: 1fr; }
       .pillar { border-right: none; border-bottom: 1px solid rgba(24,19,12,0.1); }
@@ -898,7 +916,7 @@
            data-es="Aunque muchos creen que Miami está fuera de su alcance, la experiencia de Ivan revela constantemente oportunidades de propiedades asequibles que generan ingresos sólidos, tanto para compradores primerizos como para inversores experimentados."
            data-it="Sebbene molti ritengano Miami irraggiungibile, l'esperienza di Ivan rivela costantemente opportunità di immobili accessibili che generano reddito solido — a portata sia dei primi acquirenti che degli investitori esperti.">While many assume Miami is out of reach, Ivan's expertise consistently reveals surprising opportunities for affordable properties that generate strong, steady income — accessible to first-time buyers and seasoned investors alike.</p>
 
-        <div style="display:flex;align-items:center;">
+        <div class="miami-stats-row">
           <div class="miami-stat">
             <div class="miami-stat-num">#1</div>
             <div class="miami-stat-lbl" data-en="Global Real Estate Market" data-es="Mercado Inmobiliario Global" data-it="Mercato Immobiliare Globale">Global Real Estate Market</div>
