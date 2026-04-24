@@ -697,7 +697,7 @@
     <iframe
       id="hero-yt-player"
       src="https://www.youtube.com/embed/_jtkyWaFIEQ?autoplay=1&mute=1&controls=0&modestbranding=1&rel=0&playsinline=1&enablejsapi=1"
-      allow="autoplay; encrypted-media"
+      allow="autoplay; encrypted-media; picture-in-picture"
       frameborder="0"
     ></iframe>
   </div>
@@ -1089,7 +1089,14 @@ var heroPlayer;
 
 window.onYouTubeIframeAPIReady = function() {
   heroPlayer = new YT.Player('hero-yt-player', {
-    events: { onReady: function(e) { watchLoop(e.target); } }
+    playerVars: { autoplay: 1, mute: 1, controls: 0, modestbranding: 1, rel: 0, playsinline: 1 },
+    events: {
+      onReady: function(e) {
+        e.target.mute();
+        e.target.playVideo();
+        watchLoop(e.target);
+      }
+    }
   });
 };
 
