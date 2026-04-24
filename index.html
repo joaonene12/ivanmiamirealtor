@@ -248,6 +248,8 @@
       transition: opacity 0.85s ease, transform 0.85s cubic-bezier(0.22, 1, 0.36, 1);
     }
     .fi.vis { opacity: 1; transform: translateY(0); }
+    /* Carousel viewport must never use transform — it freezes child animation on mobile */
+    .carousel-viewport.fi { transform: none !important; }
 
     /* ── Layout helpers ── */
     .pad { padding: 120px 64px; }
@@ -559,16 +561,17 @@
 
     @media (max-width: 800px) {
       .carousel-viewport { margin: 0 -24px; overflow: hidden; }
-      .carousel-track { padding: 4px 24px 20px; animation-duration: 900s; animation-play-state: running !important; }
+      .carousel-track { padding: 4px 24px 20px; animation-duration: 900s; animation-delay: -120s; animation-play-state: running !important; }
       .listing-card { width: 260px; }
       .listing-photo { height: 164px; }
     }
 
     @media (max-width: 540px) {
       .hero-video-wrap iframe {
-        width: 177.78vh; height: 100vh;
+        width: 100vw; height: 56.25vw;
         min-height: unset; min-width: unset;
-        top: 50%; transform: translate(-50%, -50%);
+        top: 40%; left: 50%;
+        transform: translate(-50%, -50%);
       }
       .hero-name { font-size: clamp(52px, 14vw, 90px); }
       .pillars { grid-template-columns: 1fr; }
