@@ -558,17 +558,9 @@
     .listing-address { font-size: 12px; color: var(--ink-60); letter-spacing: 0.02em; }
 
     @media (max-width: 800px) {
-      .carousel-viewport {
-        margin: 0 -24px;
-        overflow-x: auto; overflow-y: hidden;
-        -webkit-overflow-scrolling: touch;
-        scroll-snap-type: x mandatory;
-      }
-      .carousel-viewport::-webkit-scrollbar { display: none; }
-      .carousel-viewport::before,
-      .carousel-viewport::after { display: none; }
-      .carousel-track { animation: none; padding: 4px 24px 20px; }
-      .listing-card { width: 260px; scroll-snap-align: start; }
+      .carousel-viewport { margin: 0 -24px; overflow: hidden; }
+      .carousel-track { padding: 4px 24px 20px; animation-duration: 600s; }
+      .listing-card { width: 260px; }
       .listing-photo { height: 164px; }
     }
 
