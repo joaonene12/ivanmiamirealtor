@@ -1,0 +1,9 @@
+node_modules/
+temporary screenshots/
+brand/listing-*.jpg
+brand/listing-*.png
+*.log
+*.err
+.DS_Store
+.claude/
+session-context.md

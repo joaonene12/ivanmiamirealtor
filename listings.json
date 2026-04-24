@@ -1,0 +1,660 @@
+[
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/B26008871/photo/media/1_4300516969355476608.jpg",
+    "price": "$8,999,950",
+    "type": "Residential",
+    "address": "2130 S Miami Avenue, Miami, FL 33129",
+    "url": "https://ivan-resciniti.kw.com/property/2130-S-Miami-Avenue-Miami-FL-33129/2099618448421858"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/B26018137/photo/media/1_4315630155079426944.jpg",
+    "price": "$2,375,000",
+    "type": "Residential",
+    "address": "1125 NE 80th Street, Miami, FL 33138",
+    "url": "https://ivan-resciniti.kw.com/property/1125-NE-80th-Street-Miami-FL-33138/2107119010468998"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/R11170031/photo/media/1_4284709473185466496.jpg",
+    "price": "$169,999",
+    "type": "Residential",
+    "address": "206 NW 84th Street #206, Miami, FL 33150",
+    "url": "https://ivan-resciniti.kw.com/property/206-NW-84th-Street-206-Miami-FL-33150/2092108055456204"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11952293/photo/media/1_4317540701823538432.jpg",
+    "price": "$725,000",
+    "type": "Residential",
+    "address": "15626 SW 100th Ter, Miami, FL 33196",
+    "url": "https://ivan-resciniti.kw.com/property/15626-SW-100th-Ter-Miami-FL-33196/2079842903065530"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/R11122020/photo/media/1_4284914094956942336.jpg",
+    "price": "$850,000",
+    "type": "Residential",
+    "address": "5225 Collins Avenue #1408, Miami Beach, FL 33140",
+    "url": "https://ivan-resciniti.kw.com/property/5225-Collins-Avenue-1408-Miami-Beach-FL-33140/2027696695429596"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/F10539644/photo/media/1_4250986289680751744.jpg",
+    "price": "$2,000,000",
+    "type": "Residential",
+    "address": "1935 SW 10th Street, Miami, FL 33135",
+    "url": "https://ivan-resciniti.kw.com/property/1935-SW-10th-Street-Miami-FL-33135/2058537166730748"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/B26009562/photo/media/1_4303582109550285440.jpg",
+    "price": "$629,000",
+    "type": "Residential",
+    "address": "999 SW 1st Avenue #1914, Miami, FL 33130",
+    "url": "https://ivan-resciniti.kw.com/property/999-SW-1st-Avenue-1914-Miami-FL-33130/2100220536285078"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/R11009646/photo/media/1_4271940635448682112.jpg",
+    "price": "$524,000",
+    "type": "Residential",
+    "address": "601 NE 1st Avenue #2809, Miami, FL 33132",
+    "url": "https://ivan-resciniti.kw.com/property/601-NE-1st-Avenue-2809-Miami-FL-33132/1885893292793344"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/B26016712/photo/media/1_4312958473894336256.jpg",
+    "price": "$725,000",
+    "type": "Residential",
+    "address": "7700 NE 1st Court, Miami, FL 33138",
+    "url": "https://ivan-resciniti.kw.com/property/7700-NE-1st-Court-Miami-FL-33138/2105877939648222"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/B26014363/photo/media/1_4313820413180977920.jpg",
+    "price": "$749,900",
+    "type": "Residential",
+    "address": "14209 SW 117th Terrace, Miami, FL 33186",
+    "url": "https://ivan-resciniti.kw.com/property/14209-SW-117th-Terrace-Miami-FL-33186/2103933973811800"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12002981/photo/media/1_4317288969201624192.jpg",
+    "price": "$849,000",
+    "type": "Residential",
+    "address": "55 SW 9th St #3106, Miami, FL 33130",
+    "url": "https://ivan-resciniti.kw.com/property/55-SW-9th-St-3106-Miami-FL-33130/2106399682236366"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11961035/photo/media/1_4262437536099051136.jpg",
+    "price": "$95,000",
+    "type": "Residential",
+    "address": "4111 NW 37th Ave  H707, Miami, FL 33142",
+    "url": "https://ivan-resciniti.kw.com/property/4111-NW-37th-Ave-H707-Miami-FL-33142/2081263354591344"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11999418/photo/media/1_4317530484549174016.jpg",
+    "price": "$345,000",
+    "type": "Residential",
+    "address": "900 Bay Dr #311, Miami Beach, FL 33141",
+    "url": "https://ivan-resciniti.kw.com/property/900-Bay-Dr-311-Miami-Beach-FL-33141/2105292965026960"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006976/photo/media/1_4317530443260437376.jpg",
+    "price": "$50,000",
+    "type": "Residential",
+    "address": "4200 SW 157 avenue, Miami, FL 33185",
+    "url": "https://ivan-resciniti.kw.com/property/4200-SW-157-avenue-Miami-FL-33185/2108164300849102"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11998734/photo/media/1_4317530486017206400.jpg",
+    "price": "$719,900",
+    "type": "Residential",
+    "address": "5100 SW 116th Ave, Miami, FL 33165",
+    "url": "https://ivan-resciniti.kw.com/property/5100-SW-116th-Ave-Miami-FL-33165/2103489916200424"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11973595/photo/media/1_4278473229552219520.jpg",
+    "price": "$965,000",
+    "type": "Residential",
+    "address": "2725 SW 82nd Ave, Miami, FL 33155",
+    "url": "https://ivan-resciniti.kw.com/property/2725-SW-82nd-Ave-Miami-FL-33155/2088621422019096"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11977107/photo/media/1_4287583219135055360.jpg",
+    "price": "$50,000",
+    "type": "Residential",
+    "address": "4200 SW 157 avenue, Miami, FL 33185",
+    "url": "https://ivan-resciniti.kw.com/property/4200-SW-157-avenue-Miami-FL-33185/2093541546735582"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11955916/photo/media/1_4289713378244064256.jpg",
+    "price": "$825,000",
+    "type": "Residential",
+    "address": "13505 SW 104th Ter, Miami, FL 33186",
+    "url": "https://ivan-resciniti.kw.com/property/13505-SW-104th-Ter-Miami-FL-33186/2083145836410362"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12001173/photo/media/1_4310957148880872192.jpg",
+    "price": "$415,000",
+    "type": "Residential",
+    "address": "1205 Meridian Ave #3, Miami Beach, FL 33139",
+    "url": "https://ivan-resciniti.kw.com/property/1205-Meridian-Ave-3-Miami-Beach-FL-33139/2104954641972828"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11954365/photo/media/1_4260887338730235520.jpg",
+    "price": "$595,000",
+    "type": "Residential",
+    "address": "121 NE 5th St #1608, Miami, FL 33143",
+    "url": "https://ivan-resciniti.kw.com/property/121-NE-5th-St-1608-Miami-FL-33143/2080244619428872"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/B26014383/photo/media/1_4317509440140583808.jpg",
+    "price": "$280,000",
+    "type": "Residential",
+    "address": "1004 Pennsylvania Avenue #3, Miami Beach, FL 33139",
+    "url": "https://ivan-resciniti.kw.com/property/1004-Pennsylvania-Avenue-3-Miami-Beach-FL-33139/2103978195363132"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11981397/photo/media/1_4317145142767853952.jpg",
+    "price": "$3,299,999",
+    "type": "Residential",
+    "address": "2111 Alhambra Cir, Coral Gables, FL 33134",
+    "url": "https://ivan-resciniti.kw.com/property/2111-Alhambra-Cir-Coral-Gables-FL-33134/2097247576607144"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11849350/photo/media/1_4291811032100846336.jpg",
+    "price": "$4,600,000",
+    "type": "Residential",
+    "address": "2152 Prairie Ave, Miami Beach, FL 33139",
+    "url": "https://ivan-resciniti.kw.com/property/2152-Prairie-Ave-Miami-Beach-FL-33139/2024699242879360"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11892358/photo/media/1_4178738681181009792.jpg",
+    "price": "$719,000",
+    "type": "Residential",
+    "address": "650 NE 32nd St #3108, Miami, FL 33137",
+    "url": "https://ivan-resciniti.kw.com/property/650-NE-32nd-St-3108-Miami-FL-33137/2040398546974320"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11948169/photo/media/1_4257364254039612800.jpg",
+    "price": "$6,795,000",
+    "type": "Residential",
+    "address": "6175 SW 128th Street, Pinecrest, FL 33156",
+    "url": "https://ivan-resciniti.kw.com/property/6175-SW-128th-Street-Pinecrest-FL-33156/2078791056967162"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11921364/photo/media/1_4218971130640789504.jpg",
+    "price": "$2,699,000",
+    "type": "Residential",
+    "address": "2130 NE 122nd Rd, North Miami, FL 33181",
+    "url": "https://ivan-resciniti.kw.com/property/2130-NE-122nd-Rd-North-Miami-FL-33181/2055753464595702"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11933000/photo/media/1_4240573711183881984.jpg",
+    "price": "$4,850,000",
+    "type": "Residential",
+    "address": "2124 Fisher Island Dr #2124, Miami Beach, FL 33109",
+    "url": "https://ivan-resciniti.kw.com/property/2124-Fisher-Island-Dr-2124-Miami-Beach-FL-33109/2063535699650670"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11950675/photo/media/1_4257837470793211264.jpg",
+    "price": "$870,000",
+    "type": "Residential",
+    "address": "25 NW 104th St, Miami Shores, FL 33150",
+    "url": "https://ivan-resciniti.kw.com/property/25-NW-104th-St-Miami-Shores-FL-33150/2075827190285324"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11922447/photo/media/1_4315980663090652032.jpg",
+    "price": "$975,000",
+    "type": "Residential",
+    "address": "15144 SW 20th St, Miami, FL 33185",
+    "url": "https://ivan-resciniti.kw.com/property/15144-SW-20th-St-Miami-FL-33185/2061708671481974"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11892025/photo/media/1_4175998558467062272.jpg",
+    "price": "$310,000",
+    "type": "Residential",
+    "address": "9310 Fontainebleau Blvd #201, Miami, FL 33172",
+    "url": "https://ivan-resciniti.kw.com/property/9310-Fontainebleau-Blvd-201-Miami-FL-33172/2039056573330636"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11893123/photo/media/1_4312126129121614720.jpg",
+    "price": "$5,999,999",
+    "type": "Residential",
+    "address": "7837 SW 117th St, Pinecrest, FL 33156",
+    "url": "https://ivan-resciniti.kw.com/property/7837-SW-117th-St-Pinecrest-FL-33156/2046286758036728"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006697/photo/media/1_4317359412747118592.jpg",
+    "price": "$3,279,000",
+    "type": "Residential",
+    "address": "700 NE 24th ST #5407, Miami, FL 33137",
+    "url": "https://ivan-resciniti.kw.com/property/700-NE-24th-ST-5407-Miami-FL-33137/2108070871389948"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11648147/photo/media/1_4194764098513818624.jpg",
+    "price": "$6,550,000",
+    "type": "Residential",
+    "address": "300 Biscayne Blvd Way #4604, Miami, FL 33131",
+    "url": "https://ivan-resciniti.kw.com/property/300-Biscayne-Blvd-Way-4604-Miami-FL-33131/1894333731271616"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11906375/photo/media/1_4199885479844856192.jpg",
+    "price": "$5,700,000",
+    "type": "Residential",
+    "address": "2085 Keystone Blvd, North Miami, FL 33181",
+    "url": "https://ivan-resciniti.kw.com/property/2085-Keystone-Blvd-North-Miami-FL-33181/2046607152682878"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11910775/photo/media/1_4315980596988451072.jpg",
+    "price": "$536,680",
+    "type": "Residential",
+    "address": "1820 S Treasure Dr #203D, North Bay Village, FL 33141",
+    "url": "https://ivan-resciniti.kw.com/property/1820-S-Treasure-Dr-203D-North-Bay-Village-FL-33141/2049334599934516"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11951989/photo/media/1_4271015014866492800.jpg",
+    "price": "$319,000",
+    "type": "Residential",
+    "address": "2001 Biscayne Blvd #3213, Miami, FL 33137",
+    "url": "https://ivan-resciniti.kw.com/property/2001-Biscayne-Blvd-3213-Miami-FL-33137/2076309720187912"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11934518/photo/media/1_4256419339684118272.jpg",
+    "price": "$2,200,000",
+    "type": "Residential",
+    "address": "2490 Abaco Ave, Miami, FL 33133",
+    "url": "https://ivan-resciniti.kw.com/property/2490-Abaco-Ave-Miami-FL-33133/2065519966001266"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11839859/photo/media/1_4297609284775654272.jpg",
+    "price": "$665,000",
+    "type": "Residential",
+    "address": "41 SE 5th St #1901, Miami, FL 33131",
+    "url": "https://ivan-resciniti.kw.com/property/41-SE-5th-St-1901-Miami-FL-33131/2008867342995744"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11935427/photo/media/1_4239178835083008896.jpg",
+    "price": "$850,000",
+    "type": "Residential",
+    "address": "501 NE 31st St #401, Miami, FL 33137",
+    "url": "https://ivan-resciniti.kw.com/property/501-NE-31st-St-401-Miami-FL-33137/2067329455376030"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11937141/photo/media/1_4237143635452817408.jpg",
+    "price": "$1,300,000",
+    "type": "Residential",
+    "address": "254 NW 43rd St, Miami, FL 33127",
+    "url": "https://ivan-resciniti.kw.com/property/254-NW-43rd-St-Miami-FL-33127/2068395420936310"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11983550/photo/media/1_4297940708401644160.jpg",
+    "price": "$3,700,000",
+    "type": "Residential",
+    "address": "941 NE 119th St, Biscayne Park, FL 33161",
+    "url": "https://ivan-resciniti.kw.com/property/941-NE-119th-St-Biscayne-Park-FL-33161/2098594342643374"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11977208/photo/media/1_4308662040990991490.jpg",
+    "price": "$595,000",
+    "type": "Residential",
+    "address": "2655 Collins Ave #1407, Miami Beach, FL 33140",
+    "url": "https://ivan-resciniti.kw.com/property/2655-Collins-Ave-1407-Miami-Beach-FL-33140/2091123723737054"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006942/photo/media/1_4317500451151672192.jpg",
+    "price": "$667,000",
+    "type": "Residential",
+    "address": "335 W 60th St, Hialeah, FL 33012",
+    "url": "https://ivan-resciniti.kw.com/property/335-W-60th-St-Hialeah-FL-33012/2108139660535458"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11954794/photo/media/1_4315980704580741248.jpg",
+    "price": "$7,650,000",
+    "type": "Residential",
+    "address": "1000 S Pointe Dr #1501, Miami Beach, FL 33139",
+    "url": "https://ivan-resciniti.kw.com/property/1000-S-Pointe-Dr-1501-Miami-Beach-FL-33139/2078973137537146"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11886589/photo/media/1_4200660480973945856.jpg",
+    "price": "$4,200,000",
+    "type": "Residential",
+    "address": "9705 Collins Ave #2304N, Bal Harbour, FL 33154",
+    "url": "https://ivan-resciniti.kw.com/property/9705-Collins-Ave-2304N-Bal-Harbour-FL-33154/2035807579264986"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11935658/photo/media/1_4250720571227788800.jpg",
+    "price": "$659,000",
+    "type": "Residential",
+    "address": "7601 E Treasure Dr #611, North Bay Village, FL 33141",
+    "url": "https://ivan-resciniti.kw.com/property/7601-E-Treasure-Dr-611-North-Bay-Village-FL-33141/2066616078345886"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11949910/photo/media/1_4315980626709419264.jpg",
+    "price": "$1,197,000",
+    "type": "Residential",
+    "address": "1330 West Ave #3206, Miami Beach, FL 33139",
+    "url": "https://ivan-resciniti.kw.com/property/1330-West-Ave-3206-Miami-Beach-FL-33139/2078781229889650"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11901377/photo/media/1_4311884323360547328.jpg",
+    "price": "$7,250,000",
+    "type": "Residential",
+    "address": "1815 Fairhaven Pl, Miami, FL 33133",
+    "url": "https://ivan-resciniti.kw.com/property/1815-Fairhaven-Pl-Miami-FL-33133/2043952110019846"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/B26009064/photo/media/1_4317544280613420032.jpg",
+    "price": "$2,775/mo",
+    "type": "Rental",
+    "address": "1900 N Bayshore Drive #1810, Miami, FL 33132",
+    "url": "https://ivan-resciniti.kw.com/property/1900-N-Bayshore-Drive-1810-Miami-FL-33132/2099864223789580"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/B26017820/photo/media/1_4315103000784501760.jpg",
+    "price": "$2,400/mo",
+    "type": "Rental",
+    "address": "9001 SW 77th Avenue #C803, Miami, FL 33156",
+    "url": "https://ivan-resciniti.kw.com/property/9001-SW-77th-Avenue-C803-Miami-FL-33156/2106983844572756"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11995447/photo/media/1_4305833598943580800.jpg",
+    "price": "$1,390/mo",
+    "type": "Rental",
+    "address": "1420 SW 129 Ct #1, Miami, FL 33184",
+    "url": "https://ivan-resciniti.kw.com/property/1420-SW-129-Ct-1-Miami-FL-33184/2102452764697928"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12003897/photo/media/1_4317530487518747520.jpg",
+    "price": "$6,400/mo",
+    "type": "Rental",
+    "address": "650 NE 32nd St #4505, Miami, FL 33137",
+    "url": "https://ivan-resciniti.kw.com/property/650-NE-32nd-St-4505-Miami-FL-33137/2108169170046556"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006952/photo/media/1_4317540636081857280.jpg",
+    "price": "$2,900/mo",
+    "type": "Rental",
+    "address": "421 NW 32nd Pl #A, Miami, FL 33125",
+    "url": "https://ivan-resciniti.kw.com/property/421-NW-32nd-Pl-A-Miami-FL-33125/2108169158366476"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12003819/photo/media/1_4314570962859825408.jpg",
+    "price": "$40,000/mo",
+    "type": "Rental",
+    "address": "2143 N Bay Rd, Miami Beach, FL 33140",
+    "url": "https://ivan-resciniti.kw.com/property/2143-N-Bay-Rd-Miami-Beach-FL-33140/2106719163160226"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006994/photo/media/1_4317540709381548160.jpg",
+    "price": "$1,500/mo",
+    "type": "Rental",
+    "address": "294 NE 57th St #1, Miami, FL 33137",
+    "url": "https://ivan-resciniti.kw.com/property/294-NE-57th-St-1-Miami-FL-33137/2108169162149460"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11971015/photo/media/1_4274849288996628224.jpg",
+    "price": "$1,400/mo",
+    "type": "Rental",
+    "address": "1751 NW 29th St #H, Miami, FL 33142",
+    "url": "https://ivan-resciniti.kw.com/property/1751-NW-29th-St-H-Miami-FL-33142/2087323823691886"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11985490/photo/media/1_4291327777916431232.jpg",
+    "price": "$1,350/mo",
+    "type": "Rental",
+    "address": "1751 NW 29th St #3, Miami, FL 33142",
+    "url": "https://ivan-resciniti.kw.com/property/1751-NW-29th-St-3-Miami-FL-33142/2095374884438540"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/B26016522/photo/media/1_4312502888853902592.jpg",
+    "price": "$3,400/mo",
+    "type": "Rental",
+    "address": "133 NE 2nd Avenue, Miami, FL 33132",
+    "url": "https://ivan-resciniti.kw.com/property/133-NE-2nd-Avenue-Miami-FL-33132/2105646914706620"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/F10549641/photo/media/1_4314368117199971072.jpg",
+    "price": "$5,500/mo",
+    "type": "Rental",
+    "address": "9595 Collins Avenue #N-8f, Surfside, FL 33154",
+    "url": "https://ivan-resciniti.kw.com/property/9595-Collins-Avenue-N-8f-Surfside-FL-33154/2079748151776520"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/B26015663/photo/media/1_4311439249900132224.jpg",
+    "price": "$1,800/mo",
+    "type": "Rental",
+    "address": "9143 SW 77th Avenue, Miami, FL 33156",
+    "url": "https://ivan-resciniti.kw.com/property/9143-SW-77th-Avenue-Miami-FL-33156/2105192261094536"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/136/B26016601/photo/media/1_4312652592724002816.jpg",
+    "price": "$2,700/mo",
+    "type": "Rental",
+    "address": "2140 NW 120th Street, Miami, FL 33167",
+    "url": "https://ivan-resciniti.kw.com/property/2140-NW-120th-Street-Miami-FL-33167/2105708535793292"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006764/photo/media/1_4317530490287007872.jpg",
+    "price": "$9,300/mo",
+    "type": "Rental",
+    "address": "1010 Brickell Ave #3205, Miami, FL 33131",
+    "url": "https://ivan-resciniti.kw.com/property/1010-Brickell-Ave-3205-Miami-FL-33131/2108164298145742"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12005376/photo/media/1_4317530488147893120.jpg",
+    "price": "$2,000/mo",
+    "type": "Rental",
+    "address": "8550 SW 109th Ave #5-217, Miami, FL 33173",
+    "url": "https://ivan-resciniti.kw.com/property/8550-SW-109th-Ave-5-217-Miami-FL-33173/2108164299351688"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11993665/photo/media/1_4316464513940159488.jpg",
+    "price": "$2,550/mo",
+    "type": "Rental",
+    "address": "7971 SW 152nd Ave #1505, Miami, FL 33193",
+    "url": "https://ivan-resciniti.kw.com/property/7971-SW-152nd-Ave-1505-Miami-FL-33193/2100447366943326"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006951/photo/media/1_4317520588751708928.jpg",
+    "price": "$4,000/mo",
+    "type": "Rental",
+    "address": "6365 Collins Ave #906, Miami Beach, FL 33141",
+    "url": "https://ivan-resciniti.kw.com/property/6365-Collins-Ave-906-Miami-Beach-FL-33141/2108154410431756"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11972690/photo/media/1_4276691474834945152.jpg",
+    "price": "$2,490/mo",
+    "type": "Rental",
+    "address": "2829 Indian Creek Dr #PH-3, Miami Beach, FL 33140",
+    "url": "https://ivan-resciniti.kw.com/property/2829-Indian-Creek-Dr-PH-3-Miami-Beach-FL-33140/2088221241296858"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11966998/photo/media/1_4317530470087213824.jpg",
+    "price": "$2,200/mo",
+    "type": "Rental",
+    "address": "660 W Park Dr #1-201, Miami, FL 33172",
+    "url": "https://ivan-resciniti.kw.com/property/660-W-Park-Dr-1-201-Miami-FL-33172/2085057998078552"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11999361/photo/media/1_4308813011691851648.jpg",
+    "price": "$2,500/mo",
+    "type": "Rental",
+    "address": "7931 SW 152nd Ave #907-9, Miami, FL 33193",
+    "url": "https://ivan-resciniti.kw.com/property/7931-SW-152nd-Ave-907-9-Miami-FL-33193/2103907685296002"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11949718/photo/media/1_4250549295733337728.jpg",
+    "price": "$2,950/mo",
+    "type": "Rental",
+    "address": "851 NE 1st Ave #305, Miami, FL 33132",
+    "url": "https://ivan-resciniti.kw.com/property/851-NE-1st-Ave-305-Miami-FL-33132/2075458637894576"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11998917/photo/media/1_4317509329176052480.jpg",
+    "price": "$1,600/mo",
+    "type": "Rental",
+    "address": "901 Collins Ave #108, Miami Beach, FL 33139",
+    "url": "https://ivan-resciniti.kw.com/property/901-Collins-Ave-108-Miami-Beach-FL-33139/2108154409725530"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006962/photo/media/1_4317509292979230976.jpg",
+    "price": "$1,900/mo",
+    "type": "Rental",
+    "address": "331 85th St #24, Miami Beach, FL 33141",
+    "url": "https://ivan-resciniti.kw.com/property/331-85th-St-24-Miami-Beach-FL-33141/2108154410880496"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11997597/photo/media/1_4317509504145644416.jpg",
+    "price": "$3,700/mo",
+    "type": "Rental",
+    "address": "2333 Brickell Ave #1109, Miami, FL 33129",
+    "url": "https://ivan-resciniti.kw.com/property/2333-Brickell-Ave-1109-Miami-FL-33129/2107510509328008"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12000417/photo/media/1_4317510397280757888.jpg",
+    "price": "$4,000/mo",
+    "type": "Rental",
+    "address": "867 SW 155th Ct #867, Miami, FL 33194",
+    "url": "https://ivan-resciniti.kw.com/property/867-SW-155th-Ct-867-Miami-FL-33194/2104826946307746"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11986310/photo/media/1_4297770321328026880.jpg",
+    "price": "$3,300/mo",
+    "type": "Rental",
+    "address": "1781 NW 16th St, Miami, FL 33125",
+    "url": "https://ivan-resciniti.kw.com/property/1781-NW-16th-St-Miami-FL-33125/2097439253371308"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11989648/photo/media/1_4317509308019975040.jpg",
+    "price": "$2,400/mo",
+    "type": "Rental",
+    "address": "700 Biltmore Way #1112, Coral Gables, FL 33134",
+    "url": "https://ivan-resciniti.kw.com/property/700-Biltmore-Way-1112-Coral-Gables-FL-33134/2108158825727588"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12000975/photo/media/1_4317509600363094784.jpg",
+    "price": "$27,500/mo",
+    "type": "Rental",
+    "address": "700 NE 26th Ter #3901, Miami, FL 33137",
+    "url": "https://ivan-resciniti.kw.com/property/700-NE-26th-Ter-3901-Miami-FL-33137/2105903299157132"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11996287/photo/media/1_4306377146675838848.jpg",
+    "price": "$3,900/mo",
+    "type": "Rental",
+    "address": "77 SE 5th Street #3004, Miami, FL 33131",
+    "url": "https://ivan-resciniti.kw.com/property/77-SE-5th-Street-3004-Miami-FL-33131/2102718184192286"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006787/photo/media/1_4317379539962155008.jpg",
+    "price": "$6,000/mo",
+    "type": "Rental",
+    "address": "8760 SW 83rd St, Miami, FL 33173",
+    "url": "https://ivan-resciniti.kw.com/property/8760-SW-83rd-St-Miami-FL-33173/2108090535804038"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12003186/photo/media/1_4317349357020740608.jpg",
+    "price": "$5,250/mo",
+    "type": "Rental",
+    "address": "650 NE 32nd St #1107, Miami, FL 33137",
+    "url": "https://ivan-resciniti.kw.com/property/650-NE-32nd-St-1107-Miami-FL-33137/2108075767450758"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006722/photo/media/1_4317349334438454016.jpg",
+    "price": "$7,000/mo",
+    "type": "Rental",
+    "address": "825 Cremona Ave, Coral Gables, FL 33146",
+    "url": "https://ivan-resciniti.kw.com/property/825-Cremona-Ave-Coral-Gables-FL-33146/2108075769498764"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006949/photo/media/1_4317500409728695296.jpg",
+    "price": "$4,950/mo",
+    "type": "Rental",
+    "address": "8805 NW 103rd Pl #1, Doral, FL 33178",
+    "url": "https://ivan-resciniti.kw.com/property/8805-NW-103rd-Pl-1-Doral-FL-33178/2108149514606220"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A11915537/photo/media/1_4204173803313028608.jpg",
+    "price": "$5,300/mo",
+    "type": "Rental",
+    "address": "1800 Sunset Harbour Dr #803, Miami Beach, FL 33139",
+    "url": "https://ivan-resciniti.kw.com/property/1800-Sunset-Harbour-Dr-803-Miami-Beach-FL-33139/2052819128723322"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12004179/photo/media/1_4317429890383734656.jpg",
+    "price": "$28,000/mo",
+    "type": "Rental",
+    "address": "101 20th St #2007, Miami Beach, FL 33139",
+    "url": "https://ivan-resciniti.kw.com/property/101-20th-St-2007-Miami-Beach-FL-33139/2108105257315934"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006747/photo/media/1_4317359357575144192.jpg",
+    "price": "$3,500/mo",
+    "type": "Rental",
+    "address": "6365 Collins Ave #910, Miami Beach, FL 33141",
+    "url": "https://ivan-resciniti.kw.com/property/6365-Collins-Ave-910-Miami-Beach-FL-33141/2108080683335258"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12000809/photo/media/1_4317392354634474240.jpg",
+    "price": "$4,950/mo",
+    "type": "Rental",
+    "address": "650 NE 32th St #706, Miami, FL 33137",
+    "url": "https://ivan-resciniti.kw.com/property/650-NE-32th-St-706-Miami-FL-33137/2108095450750684"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006831/photo/media/1_4317419799861338880.jpg",
+    "price": "$20,500/mo",
+    "type": "Rental",
+    "address": "6801 Collins Ave #PH01/02, Miami Beach, FL 33141",
+    "url": "https://ivan-resciniti.kw.com/property/6801-Collins-Ave-PH01/02-Miami-Beach-FL-33141/2108110172802644"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006852/photo/media/1_4317429921908258816.jpg",
+    "price": "$3,600/mo",
+    "type": "Rental",
+    "address": "950 BRICKELL BAY DR #5402, Miami, FL 33131",
+    "url": "https://ivan-resciniti.kw.com/property/950-BRICKELL-BAY-DR-5402-Miami-FL-33131/2108105258042548"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006832/photo/media/1_4317399604354870016.jpg",
+    "price": "$2,300/mo",
+    "type": "Rental",
+    "address": "8290 LAKE DR #412, Doral, FL 33166",
+    "url": "https://ivan-resciniti.kw.com/property/8290-LAKE-DR-412-Doral-FL-33166/2108100801629320"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006727/photo/media/1_4317379500997055744.jpg",
+    "price": "$1,900/mo",
+    "type": "Rental",
+    "address": "6961 W 14th Ct #107, Hialeah, FL 33014",
+    "url": "https://ivan-resciniti.kw.com/property/6961-W-14th-Ct-107-Hialeah-FL-33014/2108090535380580"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006435/photo/media/1_4317379518789271936.jpg",
+    "price": "$4,800/mo",
+    "type": "Rental",
+    "address": "1717 N Bayshore Dr #A-1733, Miami, FL 33132",
+    "url": "https://ivan-resciniti.kw.com/property/1717-N-Bayshore-Dr-A-1733-Miami-FL-33132/2108090539486344"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006814/photo/media/1_4317429834582806400.jpg",
+    "price": "$2,300/mo",
+    "type": "Rental",
+    "address": "6535 W 26th Dr #11-39, Hialeah, FL 33016",
+    "url": "https://ivan-resciniti.kw.com/property/6535-W-26th-Dr-11-39-Hialeah-FL-33016/2108100614436492"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006839/photo/media/1_4317409657178628992.jpg",
+    "price": "$1,725/mo",
+    "type": "Rental",
+    "address": "1319 NW 60th St #2, Miami, FL 33142",
+    "url": "https://ivan-resciniti.kw.com/property/1319-NW-60th-St-2-Miami-FL-33142/2108105258135466"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006527/photo/media/1_4317419717619586944.jpg",
+    "price": "$2,200/mo",
+    "type": "Rental",
+    "address": "9473 Abbott Ave #1, Surfside, FL 33154",
+    "url": "https://ivan-resciniti.kw.com/property/9473-Abbott-Ave-1-Surfside-FL-33154/2108105257172564"
+  },
+  {
+    "photo": "https://storage.googleapis.com/slp5-stream-listing-media-prod/Trestle/135/A12006819/photo/media/1_4317390683498059648.jpg",
+    "price": "$2,990/mo",
+    "type": "Rental",
+    "address": "600 15th St #4, Miami Beach, FL 33139",
+    "url": "https://ivan-resciniti.kw.com/property/600-15th-St-4-Miami-Beach-FL-33139/2108095453650056"
+  }
+]
