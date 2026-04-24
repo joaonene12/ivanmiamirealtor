@@ -474,7 +474,7 @@
       .pillars { grid-template-columns: repeat(3, 1fr); }
       .pillar:nth-child(3) { border-right: none; }
       .pillar:nth-child(n+4) { border-top: 1px solid rgba(24,19,12,0.1); }
-      .svc-grid { grid-template-columns: 1fr; }
+      .svc-grid { grid-template-columns: 1fr; grid-template-rows: auto; }
       .svc-card.main { grid-row: span 1; }
     }
     @media (max-width: 800px) {
@@ -512,9 +512,9 @@
       display: flex; gap: 20px; width: max-content;
       animation: marquee 900s linear infinite;
       padding: 4px 64px 20px;
+      will-change: transform;
     }
     @media (hover: hover) and (pointer: fine) {
-      .carousel-track:hover { animation-play-state: paused; cursor: pointer; }
       .listing-card:hover { box-shadow: 0 8px 32px rgba(24,19,12,0.13); }
       .listing-card:hover::after { transform: scaleX(1); }
     }
@@ -560,7 +560,6 @@
     }
 
     @media (max-width: 540px) {
-      .hero-video-wrap { display: none; }
       .hero-name { font-size: clamp(52px, 14vw, 90px); }
       .pillars { grid-template-columns: 1fr; }
       .pillar { border-right: none; border-bottom: 1px solid rgba(24,19,12,0.1); }
@@ -1246,6 +1245,11 @@ function showFormMsg(el, state, lang) {
     const listings = await fetch('listings.json').then(r => r.json());
     if (!listings.length) throw new Error('empty');
     track.innerHTML = listings.map(card).join('') + listings.map(card).join('');
+    // Pause on mouse hover only — JS ensures touch devices are never affected
+    if (window.matchMedia('(hover: hover) and (pointer: fine)').matches) {
+      track.addEventListener('mouseenter', () => track.style.animationPlayState = 'paused');
+      track.addEventListener('mouseleave', () => track.style.animationPlayState = 'running');
+    }
   } catch {
     const sec = document.getElementById('listings');
     if (sec) sec.style.display = 'none';
